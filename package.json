@@ -1,0 +1,12 @@
+{
+  "name": "crycat-server",
+  "version": "1.0.0",
+  "description": "CRYCAT leaderboard server - anti-cheat score validation",
+  "main": "crycat-server.js",
+  "scripts": {
+    "start": "node crycat-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
